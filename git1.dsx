@@ -1414,8 +1414,7 @@ Event Transactions (Query Name)
          Value "continue"
       END DSSUBRECORD
       BEGIN DSSUBRECORD
-         Name "firstLineColumnNames"  // comment_of_datastage.
-		 
+         Name "firstLineColumnNames"
          Value " "
       END DSSUBRECORD
       BEGIN DSSUBRECORD
