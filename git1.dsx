@@ -1414,7 +1414,7 @@ Event Transactions (Query Name)
          Value "continue"
       END DSSUBRECORD
       BEGIN DSSUBRECORD
-         Name "firstLineColumnNames"  
+         Name "firstLineColumnNames"  //comment
          Value " "
       END DSSUBRECORD
       BEGIN DSSUBRECORD
